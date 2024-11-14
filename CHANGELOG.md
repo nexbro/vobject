@@ -1,6 +1,10 @@
 ChangeLog
 =========
 
+4.5.7 (2024-11-14)
+------------------
+* Fixed: Issue #701. fixed busy status not shown in thunderbird
+
 4.5.6 (2024-10-14)
 ------------------
 
